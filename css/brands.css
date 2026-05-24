@@ -38,6 +38,16 @@
 	--button-border:1px solid #ffffff;
 }
 
+.button-poshmark {
+	--button-text:#222;
+	--button-background:#f6f4f0;
+}
+
+.button-depop {
+	--button-text:#222;
+	--button-background:#f6f4f0;
+}
+
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
